@@ -1,9 +1,5 @@
-.navbar-dropdown-open{
-  background-color: Black;
-}
-
-.cid-u33vjBMVix .navbar.opened{
-  background-color: Black !important;
+.cid-u33vjBMVix .nav-link{
+  color: #000000 !important;
 }
 .btn {
   border-width: 2px;
