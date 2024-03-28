@@ -1,4 +1,6 @@
-
+.navbar-dropdown-open{
+  background-color: Black;
+}
 .btn {
   border-width: 2px;
 }
