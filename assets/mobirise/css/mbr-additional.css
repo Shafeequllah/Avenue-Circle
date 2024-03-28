@@ -1,3 +1,6 @@
+.container-fluid {
+  background-color:black;
+}
 .btn {
   border-width: 2px;
 }
